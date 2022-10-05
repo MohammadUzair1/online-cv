@@ -14,7 +14,6 @@ sidebar:
   # Sidebar links
   email: mohmuzair@gmail.com
   phone: +92 3041796869
-  timezone: America/Cancun Timezone
   citizenship:
   website: #do not add http://
   linkedin: Mohammad Uzair
@@ -110,7 +109,7 @@ projects:
       tagline: "Social Media Application"
 
     - title: Avunja Agent
-      link: #
+      link: "https://play.google.com/store/apps/details?id=com.avunja.avunjaAgent"
       tagline: "Responsive Flutter Application"
 
 # publications:
